@@ -1,0 +1,3 @@
+hello printf->stdout
+hello fprintf->stdout
+hello cout -> cout
