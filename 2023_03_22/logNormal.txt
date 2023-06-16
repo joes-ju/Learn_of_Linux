@@ -1,0 +1,17 @@
+hello printf->stdout
+hello printf->stdout
+hello printf->stdout
+hello printf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello fprintf->stdout
+hello world,hello joes!
+hello world,hello joes!
+hello world,hello joes!
+hello world,hello joes!
+hello world,hello joes!
